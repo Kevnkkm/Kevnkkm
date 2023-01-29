@@ -3,7 +3,7 @@
   <img src="https://kevnkkm.de/images/Kevnkkm%20Pattern%20v2%20gradient%20gradient-bg%20shadow%20fadeout.png" width="100%"/>
 </div>
 
-<h2>About me 📃:</h2>
+<h2>📃 About me:</h2>
 
 🎓 I am a passionate and aspiring media IT student
 - 🏫 Currently studying at the Westphalian University of Applied Sciences
@@ -12,16 +12,34 @@
 - 🤝 I enjoy great collaborative work
 - 🛫 I am just getting started here
 
-<h2>Languages</h2>
+<h2>⌨️ Languages</h2>
+
+<div id="languages">
+<img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3"/>&nbsp;
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" alt="TailwindCSS"/></a>&nbsp;
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="Javascript"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/>&nbsp;
+</div>
+
+<!--
 <div id="languages">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;![grafik](https://user-images.githubusercontent.com/56404895/215337493-99f4501c-600a-4697-9097-a11e638d1447.png)![grafik](https://user-images.githubusercontent.com/56404895/215337501-63b193d9-d96d-4265-b0d4-82bc21e310fd.png)![grafik](https://user-images.githubusercontent.com/56404895/215337502-932d30bd-ea67-471d-8e19-b28075a529e6.png)![grafik](https://user-images.githubusercontent.com/56404895/215337509-86ef0ce6-bf05-4cd1-bbfe-f29fe3940216.png)
+
+
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;![grafik](https://user-images.githubusercontent.com/56404895/215337787-84790969-6f97-42d7-8bac-4ff0e9489aa2.png)![grafik](https://user-images.githubusercontent.com/56404895/215337790-e2e13f59-391c-4a1c-a009-28263ee63f83.png)
+
+
 </div>
 
-<h2>Tools I use/used</h2>
+-->
+
+<h2>🔧 Tools I use/used</h2>
 <div id="tools">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/>&nbsp;

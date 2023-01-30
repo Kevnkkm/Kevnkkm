@@ -19,6 +19,7 @@
 <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3"/>&nbsp;
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" alt="TailwindCSS"/></a>&nbsp;
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="Javascript"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/>&nbsp;
 </div>
 
@@ -55,6 +56,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg" title="Adobe Brackets" alt="Adobe Brackets" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 </div>
 
 <h3>More to come later...</h3>

@@ -12,7 +12,7 @@
 - 🤝 I enjoy great collaborative work
 - 🛫 I am just getting started here
 
-<h2>⌨️ Languages</h2>
+<h2>⌨️ Current languages</h2>
 
 <div id="languages">
 <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5"/>&nbsp;

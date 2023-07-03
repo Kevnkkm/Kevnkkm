@@ -1,8 +1,10 @@
 <div id="header" align="center">
   <h1>Hey, I'm <a href="https://kevnkkm.de/" target="_blank">Kevin!</a> 👋</h1>
+  <p>A passionate and aspiring media IT student</p>
   <img src="https://kevnkkm.de/images/Kevnkkm%20Pattern%20v2%20gradient%20gradient-bg%20shadow%20fadeout.png" width="100%"/>
 </div>
 
+<!--
 <h2>📃 About me:</h2>
 
 🎓 I am a passionate and aspiring media IT student
@@ -11,8 +13,9 @@
 - 🧠 I have a very creative and open mind
 - 🤝 I enjoy great collaborative work
 - 🛫 I am just getting started here
+-->
 
-<h2>⌨️ Current languages</h2>
+<h2>💬 Current languages</h2>
 
 <div id="languages">
 <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5"/>&nbsp;
@@ -59,7 +62,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 </div>
 
-<h3>More to come later...</h3>
+<h3>I am just getting started...</h3>
 
 
 

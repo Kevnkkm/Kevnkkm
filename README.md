@@ -44,22 +44,24 @@
 -->
 
 <h2>🔧 Tools I use/used</h2>
+
 <div id="tools">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-plain.svg" title="Adobe Illustrator" alt="Adobe Illustrator" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-plain.svg" title="Adobe Xd" alt="Adobe Xd" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/premierepro/premierepro-plain.svg" title="Adobe PremierPro" alt="Adobe PremierPro" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="Davinci Resolve" alt="Davinci Resolve" width="40" height="40"/>&nbsp;
-<img src="https://static.wikia.nocookie.net/logopedia/images/3/35/FL_Studio_20_Icon.png/revision/latest/scale-to-width-down/1000?cb=20181204192927" title="FL Studio" alt="FL Studio" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gimp/gimp-original.svg" title="Gimp" alt="Gimp" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg" title="Mozilla Firefox" alt="Mozilla Firefox" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg" title="Adobe Brackets" alt="Adobe Brackets" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/4d9f4d0a-6fd3-4d85-98fc-69c69ae2b9fa" title="Adobe Photoshop" alt="Adobe Photoshop" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/d87ff4f6-6109-4b62-b2c5-38f3727c6584" title="Adobe Illustrator" alt="Adobe Illustrator" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/802fe1ef-9a2e-4f86-9557-3a9dcd379927" title="Adobe Xd" alt="Adobe Xd" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/c9014c40-715f-4030-9411-6cf80e9fd37e" title="Adobe Premiere Pro" alt="Adobe Premiere Pro" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/17ce110c-b25f-4d8d-877d-c83164ed2b20" title="Davinci Resolve" alt="Davinci Resolve" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/16b2fe52-aa77-4e1b-9982-ad6d00de0d91" title="FL Studio" alt="FL Studio" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/8b6c24db-a64a-4705-8798-f047603bd559" title="GIMP" alt="GIMP" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/c4787eee-238b-44bb-85be-e33f31809d3a" title="Blender" alt="Blender" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/514ddd47-ce04-4d91-99c7-2026c59e113e" title="Unity" alt="Unity" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/beaf984e-cd2b-43f1-a0ba-303f73d6d5c0" title="Unreal Engine" alt="Unreal Engine" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/c625b22d-99db-4233-9103-5defc3728286" title="Mozilla Firefox" alt="Mozilla Firefox" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/2c13bd46-348c-49ba-b942-0f63a3cd9c86" title="Visual Studio Code" alt="Visual Studio Code" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/2c786109-d473-4f07-a36a-ba067b3b86ce" alt="Adobe Brackets" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/64b8222e-c716-497e-9592-c0fbadfd104a" title="IntelliJ" alt="IntelliJ" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/5cd6e3fb-be2d-4730-a117-b38fb22d8e67" title="Android Studio" alt="Android Studio" width="45" height="45"/>&nbsp;
 </div>
 
 <h3>I am just getting started...</h3>

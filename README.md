@@ -4,7 +4,7 @@
   <!-- OLD FONT → OLD LOGO PATTERN
   <img src="https://kevnkkm.de/images/Kevnkkm%20Pattern%20v2%20gradient%20gradient-bg%20shadow%20fadeout.png" width="100%"/>
   -->
-  <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/d98aaa77-eac7-4c13-9182-b4bc0c27ff57"/>
+  <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/d98aaa77-eac7-4c13-9182-b4bc0c27ff57" width="100%"/>
 </div>
 
 <!--

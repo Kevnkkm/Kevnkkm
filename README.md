@@ -62,8 +62,8 @@
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/beaf984e-cd2b-43f1-a0ba-303f73d6d5c0" title="Unreal Engine" alt="Unreal Engine" width="45" height="45"/>&nbsp;
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/c625b22d-99db-4233-9103-5defc3728286" title="Mozilla Firefox" alt="Mozilla Firefox" width="45" height="45"/>&nbsp;
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/2c13bd46-348c-49ba-b942-0f63a3cd9c86" title="Visual Studio Code" alt="Visual Studio Code" width="45" height="45"/>&nbsp;
-<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/2c786109-d473-4f07-a36a-ba067b3b86ce" alt="Adobe Brackets" width="45" height="45"/>&nbsp;
-<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/64b8222e-c716-497e-9592-c0fbadfd104a" title="IntelliJ" alt="IntelliJ" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/2c786109-d473-4f07-a36a-ba067b3b86ce" title="Adobe Brackets" alt="Adobe Brackets" width="45" height="45"/>&nbsp;
+<img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/64b8222e-c716-497e-9592-c0fbadfd104a" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="45" height="45"/>&nbsp;
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/5cd6e3fb-be2d-4730-a117-b38fb22d8e67" title="Android Studio" alt="Android Studio" width="45" height="45"/>&nbsp;
 </div>
 

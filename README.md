@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <h1>Hey, I'm <a href="https://kevnkkm.de/" target="_blank">Kevin!</a> 👋</h1>
   <p>A passionate and aspiring media IT student</p>
+  <!-- OLD FONT → OLD LOGO PATTERN
   <img src="https://kevnkkm.de/images/Kevnkkm%20Pattern%20v2%20gradient%20gradient-bg%20shadow%20fadeout.png" width="100%"/>
+  -->
+  <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/d98aaa77-eac7-4c13-9182-b4bc0c27ff57"/>
 </div>
 
 <!--

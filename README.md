@@ -27,6 +27,7 @@
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="Javascript"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#"/>&nbsp;
 </div>
 
 <!--

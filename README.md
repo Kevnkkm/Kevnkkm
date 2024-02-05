@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hey, I'm <a href="https://kevnkkm.de/" target="_blank">Kevin!</a> 👋</h1>
-  <p>A passionate and aspiring media IT student</p>
+  <p>A passionate and aspiring CS student</p>
   <!-- OLD FONT → OLD LOGO PATTERN
   <img src="https://kevnkkm.de/images/Kevnkkm%20Pattern%20v2%20gradient%20gradient-bg%20shadow%20fadeout.png" width="100%"/>
   -->

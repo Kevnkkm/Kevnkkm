@@ -51,8 +51,6 @@
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/64b8222e-c716-497e-9592-c0fbadfd104a" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="45" height="45"/>&nbsp;
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/5cd6e3fb-be2d-4730-a117-b38fb22d8e67" title="Android Studio" alt="Android Studio" width="45" height="45"/>&nbsp;
 </div>
-https://github.com/Kevnkkm/Kevnkkm/assets/56404895/d7a7074e-9241-45b8-85e4-29274b5bfd42
-
 <h3>I am just getting started...</h3>
 
 ```math

@@ -56,4 +56,4 @@ https://github.com/Kevnkkm/Kevnkkm/assets/56404895/d7a7074e-9241-45b8-85e4-29274
 <h3>I am just getting started...</h3>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.03; background: url('https://github.com/Kevnkkm/Kevnkkm/assets/56404895/d7a7074e-9241-45b8-85e4-29274b5bfd42');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.03; background: linear-gradient(-45deg, #fff, #f0f, #0ff, #f0f, #0ff);]{x0000}$}

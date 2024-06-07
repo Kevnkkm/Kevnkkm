@@ -24,7 +24,8 @@
 <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3"/>&nbsp;
 <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" alt="TailwindCSS"/></a>&nbsp;
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="Javascript"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="Javascript"/>&nbsp;![Gradient](https://github.com/Kevnkkm/Kevnkkm/assets/56404895/bfa7c4ac-f753-4d39-b81c-1868949e90ff)
+
 <img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#"/>&nbsp;
@@ -50,8 +51,9 @@
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/64b8222e-c716-497e-9592-c0fbadfd104a" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="45" height="45"/>&nbsp;
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/5cd6e3fb-be2d-4730-a117-b38fb22d8e67" title="Android Studio" alt="Android Studio" width="45" height="45"/>&nbsp;
 </div>
+https://github.com/Kevnkkm/Kevnkkm/assets/56404895/d7a7074e-9241-45b8-85e4-29274b5bfd42
 
 <h3>I am just getting started...</h3>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.15; background: url('https://github.com/Kevnkkm/Kevnkkm/assets/56404895/c2758d95-c379-4028-a31b-fb8a81b4c0f5');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.03; background: url('https://github.com/Kevnkkm/Kevnkkm/assets/56404895/d7a7074e-9241-45b8-85e4-29274b5bfd42');]{x0000}$}

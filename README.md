@@ -46,8 +46,12 @@
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/c625b22d-99db-4233-9103-5defc3728286" title="Mozilla Firefox" alt="Mozilla Firefox" width="45" height="45"/>&nbsp;
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/2c13bd46-348c-49ba-b942-0f63a3cd9c86" title="Visual Studio Code" alt="Visual Studio Code" width="45" height="45"/>&nbsp;
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/2c786109-d473-4f07-a36a-ba067b3b86ce" title="Adobe Brackets" alt="Adobe Brackets" width="45" height="45"/>&nbsp;
+
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/64b8222e-c716-497e-9592-c0fbadfd104a" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="45" height="45"/>&nbsp;
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/5cd6e3fb-be2d-4730-a117-b38fb22d8e67" title="Android Studio" alt="Android Studio" width="45" height="45"/>&nbsp;
 </div>
 
 <h3>I am just getting started...</h3>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/Kevnkkm/Kevnkkm/assets/56404895/c2758d95-c379-4028-a31b-fb8a81b4c0f5');]{x0000}$}

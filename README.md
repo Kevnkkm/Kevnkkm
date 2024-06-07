@@ -54,4 +54,4 @@
 <h3>I am just getting started...</h3>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.75; background: url('https://github.com/Kevnkkm/Kevnkkm/assets/56404895/c2758d95-c379-4028-a31b-fb8a81b4c0f5');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.25; background: url('https://github.com/Kevnkkm/Kevnkkm/assets/56404895/c2758d95-c379-4028-a31b-fb8a81b4c0f5');]{x0000}$}

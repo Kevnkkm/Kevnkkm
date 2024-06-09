@@ -51,6 +51,3 @@
 <img src="https://github.com/Kevnkkm/Kevnkkm/assets/56404895/5cd6e3fb-be2d-4730-a117-b38fb22d8e67" title="Android Studio" alt="Android Studio" width="45" height="45"/>&nbsp;
 </div>
 <h3>I am just getting started...</h3>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.03; background: linear-gradient(-45deg, #fff, #f0f, #0ff, #f0f, #0ff);]{x0000}$}

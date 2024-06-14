@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=godot" title="GDscript" alt="GDscript"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=godot" title="GDScript" alt="GDScript"/>&nbsp;
 </div>
 
 <h2>🔧 Tools I use/used</h2>

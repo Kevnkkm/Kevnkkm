@@ -23,7 +23,7 @@
 <div id="languages">
 <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3"/>&nbsp;
-<!-- <a href="https://tailwindcss.com/"> --> <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" alt="TailwindCSS"/> <!-- </a> -->&nbsp;
+<!-- <a href="https://tailwindcss.com/"> --> <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" alt="TailwindCSS"/><!-- </a> -->&nbsp;
 <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="Javascript"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/>&nbsp;
 <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/>&nbsp;
